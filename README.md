@@ -1,0 +1,3 @@
+# buttergreedybot
+
+Mastodon bot project
