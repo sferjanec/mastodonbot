@@ -12,7 +12,7 @@
     "fosstodon",
     "education"
   ],
-  "author": "Steve Ferjanec",
+  "author": "Stephen Ferjanec",
   "license": "MIT",
   "dependencies": {
     "dotenv": "^8.2.0",

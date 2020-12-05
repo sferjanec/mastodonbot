@@ -47,7 +47,7 @@ function toot(content) {
      });
 }
 
-//toot();
+///toot();
 
 // function toot() {
 //     mast.post('statuses', params, (error, data) => {
